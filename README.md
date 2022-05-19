@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DouglasAlVas
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in AWS, Python
+- 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dougloha@gmail.com
 - I'm beginner and i hope learn with you!
