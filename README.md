@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DouglasAlVas
-- 👀 I’m interested in Elixir
+- 👀 I’m interested in Elixir/Phoenix
 - 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dougloha@gmail.com
